@@ -3,3 +3,6 @@ Angular TypeScript app mostly following FireShip tutorial - https://fireship.io/
 
 # Getting Angular App Started
 https://code.visualstudio.com/docs/nodejs/angular-tutorial
+
+# Run
+ng serve
